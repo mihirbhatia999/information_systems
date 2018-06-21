@@ -1,4 +1,3 @@
-#HOMEWOEK 5 
 
 import os
 from bs4 import BeautifulSoup
@@ -62,11 +61,6 @@ all_links = extract_all_links(original,d)
 download_links_from_list(all_links)
 
              
-        
-   
-        
-            
-        
 
 ##page = input("enter the start webpage:")
 ##levels = input("enter the number of levels:")
