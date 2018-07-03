@@ -1,0 +1,37 @@
+#form{
+    align-content:center;
+    text-align: center;
+}
+
+h1{
+    background-color: cornsilk;
+    font: bold;
+    font-size: xx-large;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+table,th,td{
+    text-align: center;
+    margin: 0px auto;
+    vertical-align: middle;
+    width: 70%;
+    font-size: large;
+    font-family: Calibri;
+    border: 2px solid black;
+}
+
+#display_message{
+    text-align: center;
+    font-size: large;
+    font-family: Calibri;
+}
+
+#Interaction{
+    text-align: center;
+    font-size: x-large;
+}
