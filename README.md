@@ -48,15 +48,15 @@ As someone who needs to get started with GitHub, you can use the Desktop version
 ### Download and Install 
 [Download GitHub Desktop Here](https://desktop.github.com/)
 
-![Github Desktop](https://github.com/adarsh98/Alexa-Scribe/blob/master/AWS%20Team/GitHubPresentation/Capture1.PNG)
+![Github Desktop](https://github.com/mihirbhatia999/information_systems/blob/master/GitHubPresentation/Capture1.PNG)
 
 ### Sign in to Github 
 Use an existing github account to login. Make sure that you have access (i.e. you are a contributor) to the repo that you plan to work on. You will not be able to view private repos without permissions. 
 To Sign in : **Select File > Options > Sign in (GitHub)**
-![Github Desktop](https://github.com/adarsh98/Alexa-Scribe/blob/master/AWS%20Team/GitHubPresentation/Capture2.PNG)
+![Github Desktop](https://github.com/mihirbhatia999/information_systems/blob/master/GitHubPresentation/Capture2.PNG)
 ### Select the repo
 Select the repo that you need to work on 
-![Github Desktop](https://github.com/adarsh98/Alexa-Scribe/blob/master/AWS%20Team/GitHubPresentation/Capture3.PNG)
+![Github Desktop](https://github.com/mihirbhatia999/information_systems/blob/master/GitHubPresentation/Capture3.PNG)
 ### Clone the repo 
 Use either **Ctrl + Shift + O** or **File>Clone a repository** to open up window where you can enter the path of your local repo. 
 ![Github Desktop](https://github.com/adarsh98/Alexa-Scribe/blob/master/AWS%20Team/GitHubPresentation/Capture4.PNG)
@@ -65,14 +65,14 @@ Go to the path where your local repo is stored and make the changes/updates to t
 
 ### Commit the changes 
 Commit your changes in the local repo with an appropriate description message 
-![Github Desktop](https://github.com/adarsh98/Alexa-Scribe/blob/master/AWS%20Team/GitHubPresentation/Capture5.PNG)
+![Github Desktop](https://github.com/mihirbhatia999/information_systems/blob/master/GitHubPresentation/Capture5.PNG)
 ### Push code 
 Push the updates to GitHub.com. Check on github to see if updates are present. If there is a conflict, take a look at it and resolve it.
 **Repository > Push**
 ### Pull code 
 Once you have a local repo setup, you only need to pull updates of your files into the same local repo and don't need to clone the repo. 
 **Repository > Pull**
-![Github Desktop](https://github.com/adarsh98/Alexa-Scribe/blob/master/AWS%20Team/GitHubPresentation/Capture6.PNG)
+![Github Desktop](https://github.com/mihirbhatia999/information_systems/blob/master/GitHubPresentation/Capture6.PNG)
 
 ## Some great references 
 1. [How to use Github - Siraj Raval](https://www.youtube.com/watch?v=Loav1kbA640)
