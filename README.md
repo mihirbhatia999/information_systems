@@ -59,7 +59,7 @@ Select the repo that you need to work on
 ![Github Desktop](https://github.com/mihirbhatia999/information_systems/blob/master/GitHubPresentation/Capture3.PNG)
 ### Clone the repo 
 Use either **Ctrl + Shift + O** or **File>Clone a repository** to open up window where you can enter the path of your local repo. 
-![Github Desktop](https://github.com/adarsh98/Alexa-Scribe/blob/master/AWS%20Team/GitHubPresentation/Capture4.PNG)
+![Github Desktop](https://github.com/mihirbhatia999/information_systems/blob/master/GitHubPresentation/Capture4.PNG)
 ### Make an update 
 Go to the path where your local repo is stored and make the changes/updates to the code. Once you're done, get back to Github and you should see that your changes have been detected. 
 
