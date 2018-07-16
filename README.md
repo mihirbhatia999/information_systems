@@ -80,3 +80,6 @@ Once you have a local repo setup, you only need to pull updates of your files in
 3. [Git Bash File Commands](https://www.youtube.com/watch?v=bqV-eszlRhY)
 4. [Github Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 5. [Git Documentation](https://git-scm.com/docs)
+
+## Author 
+Mihir Bhatia  - [Visit my Website](https://www.mihirbhatia.com)
